@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const greenInputRange = document.getElementById('green');
     const blueInputRange = document.getElementById('blue');
 
+    
     const redInputNumber = document.getElementById('red-input');
     const greenInputNumber = document.getElementById('green-input');
     const blueInputNumber = document.getElementById('blue-input');
